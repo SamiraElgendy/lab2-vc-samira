@@ -8,3 +8,5 @@ To delete a remote branch
 3.	● To delete local tags
  git tag -d v1.0
 
+To list all tags
+git tag 
